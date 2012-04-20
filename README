@@ -1,5 +1,5 @@
-SeoLinkPager para Yii
-=====================
+h1. SeoLinkPager para Yii
+
 
 Google recomienda en contenidos paginados crear enlaces con rel="prev" y rel="next" así como insertar las etiquetas metas correspondientes en la cabecera.
 http://googlewebmaster-es.blogspot.com.es/2012/04/video-sobre-paginacion-con-relnext-y.html
