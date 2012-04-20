@@ -8,9 +8,9 @@ Este paginador genera automáticamente tanto las etiquetas rel="prev" y rel="nex
 
 Esta clase extiende de CListPager y hace overriding del método createPageButton.
 
-Uso con CListView
------------------
-$this->widget('myListView', array(
+h2. Uso con CListView
+
+bq. $this->widget('myListView', array(
 	'dataProvider'=>$dp,
 	'itemView'=>'_single',
     'sortableAttributes'=>array(
