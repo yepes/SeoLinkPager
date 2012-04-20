@@ -1,1 +1,8 @@
-.
+SeoLinkPager para Yii
+
+Google recomienda en contenidos paginados crear enlaces con rel="prev" y rel="next" así como insertar las etiquetas metas correspondientes en la cabecera.
+http://googlewebmaster-es.blogspot.com.es/2012/04/video-sobre-paginacion-con-relnext-y.html
+
+Este paginador genera automáticamente tanto las etiquetas rel="prev" y rel="next" en los enlaces correspondientes e inserta las etiquetas necesarias en la cabecera
+
+Esta clase extiende de CListView y hace overriding del método createPageButton.
