@@ -5,8 +5,6 @@ http://googlewebmaster-es.blogspot.com.es/2012/04/video-sobre-paginacion-con-rel
 */
 class SeoLinkPager extends CLinkPager{
 
-	public $cssFile = false;
-
 	public $headPrevNext = true;
 
 
